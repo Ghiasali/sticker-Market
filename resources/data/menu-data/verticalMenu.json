@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "url": "/dashboard",
+      "name": "Dashboard",
+      "icon": "home",
+      "slug": "home"
+    },
+    {
+      "url": "Stickers",
+      "name": "Sticker Packs",
+      "icon": "circle",
+      "slug": "collapsed-menu"
+    }
+  ]
+}
